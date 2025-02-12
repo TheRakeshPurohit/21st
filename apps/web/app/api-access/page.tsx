@@ -54,7 +54,7 @@ export default async function ApiAccessPage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-background">
-      <Header text="API Access" />
+      <Header />
       <main className="flex-1">
         <div className="container mx-auto max-w-2xl py-6 px-4 sm:py-20 pt-20 sm:px-0">
           <div className="space-y-8 sm:space-y-12">
